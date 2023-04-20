@@ -31,5 +31,7 @@ Thesis: Optical Character Recognition (OCR) for Armenian Language using Computer
 
 ### Skills
 **Professional Skills**: Machine Learning, Deep Learning, Digital Signal Processing (DSP), Natural Language Processing (NLP), Computer Vision (CV) Programming Languages: Python (PyTorch, Tensorflow, NumPy, Pandas), JavaScript, C++, SQL (Postgres, MySQL, NoSQL)
+
 **Mathematical Knowledge**: Strong understanding of Statistics and Probability, Calculus, Linear Algebra, Graph Theory, Computational Game Theory, and Optimization Theory, with the ability to apply them to solve complex problems in AI/ML and data science.
+
 **Languages**: English (business advanced), Armenian (native), Russian (business advanced)
